@@ -12,7 +12,7 @@ Center Name | EXL-Pune
 ## ![image](https://user-images.githubusercontent.com/89082316/185777379-393c039c-87f4-4f66-8249-239b1be2b64f.png)
 ###### ![image](https://user-images.githubusercontent.com/89082316/185777390-094ac604-6f0f-450b-b39f-0f6ae66a4bfd.png)
 ## ![image](https://user-images.githubusercontent.com/89082316/185777417-40d2570e-1999-402e-a6b7-554700d3680f.png)
-You can see the my dash board [here](https://public.tableau.com/app/profile/chetan.gavali/viz/CarPriceWithEngineParameters/DashboardonCarPriceWithEngineSpecification?publish=yes)
+You can see my dash board [here](https://public.tableau.com/app/profile/chetan.gavali/viz/CarPriceWithEngineParameters/DashboardonCarPriceWithEngineSpecification?publish=yes)
 Here we can see how different engine parameters affect the car price.
 We can make conclusions by visualizing different patterns in graphs.
 ## ![image](https://user-images.githubusercontent.com/89082316/185777899-0775a81a-555d-4579-9d4a-09cd84748341.png)
