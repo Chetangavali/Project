@@ -1,4 +1,4 @@
-Name | #Chetan Gavali
+Name | Chetan Gavali
 --- | --
 Enrolment number | EBEON0322584033
 --- | ---
